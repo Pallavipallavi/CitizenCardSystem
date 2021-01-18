@@ -16,6 +16,7 @@ Softwares Used:
 =================
 BACKEND- Spring Tool Suit
 Front End- VS Code
+Database: PostgreSQL.
 
 Technologies used:
 ==================
